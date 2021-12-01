@@ -1,7 +1,6 @@
 {
   "name": "34",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,14 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chyfarhanjamil/SDA-Lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chyfarhanjamil/SDA-Lab/issues"
+  },
+  "homepage": "https://github.com/chyfarhanjamil/SDA-Lab#readme",
+  "description": ""
 }
