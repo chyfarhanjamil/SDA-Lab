@@ -7,7 +7,7 @@ on:
   Push:
     Branch:
       - main
-  Pull_request:
+   Pull_request:
     Branch:
       - main
 
