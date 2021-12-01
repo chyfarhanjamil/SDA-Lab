@@ -4,11 +4,11 @@
 name: Build and deploy Node.js app to Azure Web App - sdalab1
 
 on:
-  push:
-    branches:
+  Push:
+    Branch:
       - main
-  pull:
-    branches:
+  Pull_request:
+    Branch:
       - main
 
   workflow_dispatch:
