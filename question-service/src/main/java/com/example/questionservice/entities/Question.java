@@ -16,10 +16,10 @@ public class Question {
     private String id;
     @Field
     private String description;
-//    @Field
-//    private String tag;
-//    @Field
-//    private String point;
-//    @Field
-//    private String[] options;
+    @Field
+    private String tag;
+    @Field
+    private String point;
+    @Field
+    private String[] options;
 }
